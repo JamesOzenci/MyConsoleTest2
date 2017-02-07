@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //This is master
+            //This is from Feature1 branch
         }
     }
 }
