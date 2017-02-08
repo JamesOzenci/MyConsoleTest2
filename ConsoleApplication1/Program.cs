@@ -13,6 +13,7 @@ namespace ConsoleApplication1
         {
             //This is master
             //This is from Feature1 branch
+            //Testing diff
         }
     }
 }
